@@ -14,9 +14,7 @@ Add new feature and deploying
 
 `git push -u origin master`
 
-If it is the firts time:
-
-`heroku create`
+`heroku create` (If it is the first time)
 
 `git push heroku`
 
